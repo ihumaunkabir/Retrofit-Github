@@ -7,7 +7,7 @@ Retrofit 2.x to access Github API practice project, Retrofit is used in conjunct
 - Issue list will be showed.
 - Comment can be sent.  
 
-**Screenshots**  
+**Screenshots :blush:**  
 [Screenshot One](https://github.com/oasiscse/Retrofit-Github/blob/master/screenshots/one.png)  
 [Screenshot Two](https://github.com/oasiscse/Retrofit-Github/blob/master/screenshots/two.png)
 
